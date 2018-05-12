@@ -1,0 +1,47 @@
+_repo: The-People-of-the-Crater_30960
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Murphy, R. K.
+    alias: Murphy, Robert K.
+    gutenberg_agent_id: '34918'
+    url: http://www.gutenberg.org/2009/agents/34918
+  - agent_name: McNutt, Charles
+    gutenberg_agent_id: '33101'
+    url: http://www.gutenberg.org/2009/agents/33101
+  - agent_name: Austin, Neil
+    gutenberg_agent_id: '34919'
+    url: http://www.gutenberg.org/2009/agents/34919
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norton, Andre
+    aliases:
+    - North, Andrew
+    - Norton, Andre Alice
+    - Norton, Alice Mary
+    birthdate: 1912
+    deathdate: 2005
+    gutenberg_agent_id: '7021'
+    url: http://www.gutenberg.org/2009/agents/7021
+    wikipedia: http://en.wikipedia.org/wiki/Andre_Norton
+description: '""Send the Black Throne to dust; conquer the Black Ones, and bring the
+  Daughter from the Caves of Darkness."" These were the tasks Garin must perform to
+  fulfill the prophecy of the Ancient Ones-and establish his own destiny in this hidden
+  land!'
+gutenberg_issued: '2010-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30960'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Air pilots -- Fiction'
+title: The People of the Crater
+url: http://www.gutenberg.org/ebooks/30960
